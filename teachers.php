@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     
-    <title>Webful Education HTML Template | Our Staff</title>
+    <title>Soojung | Our Teachers</title>
     
     <meta name="author" content="">
     <meta name="keywords" content="">
